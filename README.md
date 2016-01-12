@@ -19,4 +19,4 @@ By George Plukov
 
 ## License
 
-License is in file labeled License.md
+License is in file labeled LICENSE
